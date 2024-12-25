@@ -1,0 +1,25 @@
+#one
+{
+    margin: 10px;
+    border: 10px dotted green;
+    padding: 10px;
+    color: blueviolet;
+    background-color: aquamarine;
+}
+#two
+{
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid orange;
+    border-radius: 6px;
+    box-shadow: 3px 3px blue ;
+    text-decoration: double;
+    color: crimson;
+    background-color: cyan;
+}
+h3
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkred;
+}
